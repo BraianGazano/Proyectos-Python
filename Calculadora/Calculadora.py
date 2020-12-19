@@ -1,7 +1,7 @@
 from tkinter import *
 
 
-class InterfazGrafica():
+class Calculadora():
 
     def __init__(self):
 
@@ -112,4 +112,4 @@ class InterfazGrafica():
         self.pantalla.grid(column=0, row=0, columnspan=5)
 
 
-i = InterfazGrafica()
+i = Calculadora()
