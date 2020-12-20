@@ -1,7 +1,7 @@
 # Calculadora
 
 El siguiente proyecto consiste en una Calculadora con funcionalidades de suma, resta, multiplicación y división.
-La misma fue construida utilizando el modulo de Python: _Tkinter_
+La misma fue construida utilizando el modulo de Python: **Tkinter**
 
 ## Comenzando:
 
