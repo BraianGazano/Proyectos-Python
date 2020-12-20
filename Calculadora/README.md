@@ -5,4 +5,4 @@ La misma fue construida utilizando el modulo de Python: **Tkinter**
 
 ## Comenzando:
 
-Al ejecutar el programa se abrirá la siguiente ventana:[Link](https://ibb.co/T4Rp29D/ Interfaz Grafica)
+Al ejecutar el programa se abrirá la siguiente ventana:[https://ibb.co/T4Rp29D/] Interfaz Grafica)
