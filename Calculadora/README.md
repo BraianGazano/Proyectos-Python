@@ -7,7 +7,7 @@ La misma fue construida a modo de practica para entender el funcionamiento del m
 
 Al ejecutar el programa se abrirá la siguiente ventana:
 
-![Interfaz Grafica](https://i.ibb.co/WkFq5mN/imagen-2020-12-20-115923.png)
+![Interfaz Grafica](https://i.ibb.co/v49zj5W/imagen-2020-12-20-153306.png)
 
 La interfaz cuenta con las funcionalidades basicas de una calculadora, Se agregó una pantalla la cual muestra en tiempo real el boton que el usuario ha pulsado.
 Una vez escrita la operacion, al pulsar el boton **=** se mostrará en pantalla el resultado y dejando la posibilidad de seguir calculando en base al resultado obtenido previamente.
