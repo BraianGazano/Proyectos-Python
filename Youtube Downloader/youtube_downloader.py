@@ -10,7 +10,7 @@ class YouTubeDownloader:
     def __init__(self):
         self.ventana = Tk()
         self.ventana.title("YouTube Downloader")
-        self.ventana.resizable = False
+        self.ventana.resizable(width=False, height=False)
         self.url = StringVar()
         self.directorio_texto = StringVar()
         self.directorio_texto.set('Directorio:')
